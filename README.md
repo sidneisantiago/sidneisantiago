@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ## ⚡ Stack
 
 * **Data Engineering:** Airflow, Spark, Databricks, Delta.
+
+##
+
+[![Sidnei Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneisantiago)](https://github.com/sidneisantiago/github-readme-stats)
