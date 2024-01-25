@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 * **Data Engineering:** Airflow, Spark, Databricks, Delta.
 
-##
+## GitHub Stats
 
 [![Sidnei Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneisantiago)](https://github.com/sidneisantiago/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneisantiago&hide_progress=true)
