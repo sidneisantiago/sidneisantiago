@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-[![Sidnei Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneisantiago)](https://github.com/sidneisantiago/github-readme-stats)
+<table>
+  <tr>
+    <td>[![Sidnei Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneisantiago)](https://github.com/sidneisantiago/github-readme-stats)</td>
+    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneisantiago&layout=donut-vertical&hide_progress=true)</td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneisantiago&hide_progress=true)
+
+
